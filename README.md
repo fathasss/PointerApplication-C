@@ -1,3 +1,3 @@
-#PointerApplication1-C
+#PointerApplication-C
 
 Download and run ide
