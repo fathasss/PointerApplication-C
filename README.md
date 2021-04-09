@@ -1,2 +1,3 @@
-# programlama-PointerApplication1
-Download and run
+#PointerApplication1-C
+
+Download and run ide
